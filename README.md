@@ -23,13 +23,13 @@ This project predicts future weather conditions using Machine Learning and Time 
 
 ## Output Screenshots
 
-### Forecast Graph
-
-![Forecast Graph](forecast_graph.png)
-
 ### Output
 
 ![Output](output.png)
+
+### Forecast Graph
+
+![Forecast Graph](forecast_graph.png)
 
 ## Dataset
 
